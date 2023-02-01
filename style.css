@@ -30,7 +30,7 @@ nav{
 
 .hero{
     background-color: rgb(54, 53, 53);
-    background-image: url('/images/background-adare-restaurant.jpg');
+    background-image: url('images/background-adare-restaurant.jpg');
     background-repeat: no-repeat;
     background-clip: border-box;
     background-size: cover;
